@@ -46,16 +46,10 @@
   </a>
 </h1>
 
-
-
-
 <!-- Background -->
-
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![image-j](https://user-images.githubusercontent.com/13191252/160023653-217b80cf-cbeb-411f-acca-41594517f1f5.png)
 
-&nbsp;
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
